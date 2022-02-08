@@ -4,7 +4,7 @@ This repository contains the matlab numerical routines of the paper:
 
 [1] K.-H. Ngo, A. Lancho, G. Durisi and A. Graell i Amat, "Unsourced Multiple Access With Random User Activity," submitted to IEEE Trans. Inf. Theory, Jan. 2022.
 
-A short version of this work was reported in
+This work was presented in part in
 
 [2] K.-H. Ngo, A. Lancho, G. Durisi and A. Graell i Amat, "Massive Uncoordinated Access With Random User Activity," in Proc. IEEE Int. Symp. Inf. Theory (ISIT), Melbourne, Australia, Jul. 2021, pp. 3014-3019. 
 
