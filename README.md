@@ -40,4 +40,4 @@ This repository contains the codes to evaluate random-coding bounds on the error
 4. `/TIN/`: RCUs bound for a scheme that treats interference as noise (TIN).
   - `EbN0_TIN_KaPoissonUnknown.m`: Find the minimal required EbN0 for TIN, Ka follows a Poisson distribution and is unknown.
 
-**Note**: the codes for the SPARC and enhance SPARC schemes are provided by the group of Krishna R. Narayanan. 
+**Note**: the codes for the SPARC and enhance SPARC schemes are provided by the group of Krishna R. Narayanan, and hence not included in this repository. 
